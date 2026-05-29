@@ -1,0 +1,18 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "X2DM6728F2.com.skb.bworldstg"
+        ],
+        "components": [
+          {
+            "/": "*",
+            "comment": "도메인 뒤에 오는 모든 경로(*)에서 우리 앱을 열도록 허용합니다."
+          }
+        ]
+      }
+    ]
+  }
+}
